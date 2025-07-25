@@ -2,7 +2,7 @@
 
 <p align="left">
  Desenvolvedor em transição de carreira com formação em Engenharia de Software e pós-graduação em Desenvolvimento Web com Java. <br>
- Tenho me dedicado a construir soluções modernas, funcionais e com propósito, aplicando meus conhecimentos em <strong>Java</strong>, <strong>SpringBoot</strong>, <strong>React.js</strong> e <strong>Node.js</strong>em projetos práticos que refletem minha evolução constante na área de tecnologia.
+ Tenho me dedicado a construir soluções modernas, funcionais e com propósito, aplicando meus conhecimentos em <strong>Java</strong>, <strong>SpringBoot</strong>, <strong>React.js</strong> e <strong>Node.js</strong> em projetos práticos que refletem minha evolução constante na área de tecnologia.
 </p>
 
 ## Sobre mim
