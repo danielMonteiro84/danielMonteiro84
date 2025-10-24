@@ -8,7 +8,7 @@
 ## Sobre mim
 
 - 🎓 Graduado em Engenharia de Software
-- 🎓 Pós-graduado em Desenvolvimento Web com Java
+- 🎓 Pós-graduado em Desenvolvimento de Sistemas com Java
 - 🧪 Estudando e aplicando tecnologias como SpringBoot, TypeScript, Node.js, React e arquitetura fullstack
 - 🚀 Apaixonado por tecnologia, foco em criar soluções modernas, eficientes e com propósito
 - 🌱 Sempre em busca de aprendizado contínuo e novas ferramentas para transformar ideias em projetos reais
